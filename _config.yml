@@ -12,3 +12,5 @@ github_username:  asaed
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
+encoding: utf-8
